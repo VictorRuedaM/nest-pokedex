@@ -23,6 +23,10 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+5. Run data seed to load the DB
+```
+localhost:3000/api/v2/seed
+```
 
 
 ## Used Stack
